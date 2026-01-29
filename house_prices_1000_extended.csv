@@ -1,0 +1,1001 @@
+date,location,price,house_type,bedrooms
+2010-01-01,Hyderabad,3837330,Apartment,1
+2010-02-01,Bangalore,9545386,Villa,4
+2010-03-01,Chennai,5962929,Independent House,2
+2010-04-01,Mumbai,7641349,Apartment,2
+2010-05-01,Delhi,9509028,Villa,2
+2010-06-01,Hyderabad,5168928,Independent House,1
+2010-07-01,Bangalore,5513801,Apartment,2
+2010-08-01,Chennai,8663969,Villa,3
+2010-09-01,Mumbai,11947661,Independent House,4
+2010-10-01,Delhi,7544746,Apartment,4
+2010-11-01,Hyderabad,7547571,Villa,3
+2010-12-01,Bangalore,7500033,Independent House,2
+2011-01-01,Chennai,6842693,Apartment,5
+2011-02-01,Mumbai,12371852,Villa,3
+2011-03-01,Delhi,7954101,Independent House,2
+2011-04-01,Hyderabad,4549642,Apartment,2
+2011-05-01,Bangalore,9420126,Villa,3
+2011-06-01,Chennai,8018027,Independent House,4
+2011-07-01,Mumbai,9219993,Apartment,4
+2011-08-01,Delhi,11044472,Villa,3
+2011-09-01,Hyderabad,6309426,Independent House,3
+2011-10-01,Bangalore,7221269,Apartment,4
+2011-11-01,Chennai,9554227,Villa,4
+2011-12-01,Mumbai,12423985,Independent House,4
+2012-01-01,Delhi,8332561,Apartment,4
+2012-02-01,Hyderabad,7729335,Villa,3
+2012-03-01,Bangalore,7853300,Independent House,2
+2012-04-01,Chennai,5375136,Apartment,2
+2012-05-01,Mumbai,12364524,Villa,2
+2012-06-01,Delhi,10013363,Independent House,4
+2012-07-01,Hyderabad,5894159,Apartment,4
+2012-08-01,Bangalore,9915638,Villa,3
+2012-09-01,Chennai,8202139,Independent House,4
+2012-10-01,Mumbai,9866657,Apartment,4
+2012-11-01,Delhi,12672006,Villa,4
+2012-12-01,Hyderabad,5894237,Independent House,2
+2013-01-01,Bangalore,7398005,Apartment,4
+2013-02-01,Chennai,8793863,Villa,3
+2013-03-01,Mumbai,11908126,Independent House,3
+2013-04-01,Delhi,8153393,Apartment,4
+2013-05-01,Hyderabad,8571453,Villa,4
+2013-06-01,Bangalore,8644795,Independent House,3
+2013-07-01,Chennai,6246628,Apartment,3
+2013-08-01,Mumbai,14114794,Villa,3
+2013-09-01,Delhi,11247548,Independent House,5
+2013-10-01,Hyderabad,5182309,Apartment,2
+2013-11-01,Bangalore,9888008,Villa,2
+2013-12-01,Chennai,8915383,Independent House,5
+2014-01-01,Mumbai,9889656,Apartment,4
+2014-02-01,Delhi,11876160,Villa,3
+2014-03-01,Hyderabad,7186478,Independent House,3
+2014-04-01,Bangalore,5686944,Apartment,1
+2014-05-01,Chennai,9849934,Villa,3
+2014-06-01,Mumbai,11151678,Independent House,2
+2014-07-01,Delhi,7343589,Apartment,2
+2014-08-01,Hyderabad,10361103,Villa,5
+2014-09-01,Bangalore,9115363,Independent House,3
+2014-10-01,Chennai,7855337,Apartment,5
+2014-11-01,Mumbai,12335938,Villa,1
+2014-12-01,Delhi,10233719,Independent House,3
+2015-01-01,Hyderabad,5680871,Apartment,3
+2015-02-01,Bangalore,10433291,Villa,2
+2015-03-01,Chennai,8702152,Independent House,4
+2015-04-01,Mumbai,11147821,Apartment,4
+2015-05-01,Delhi,13217938,Villa,4
+2015-06-01,Hyderabad,6510109,Independent House,2
+2015-07-01,Bangalore,8546995,Apartment,4
+2015-08-01,Chennai,9710171,Villa,3
+2015-09-01,Mumbai,11358968,Independent House,2
+2015-10-01,Delhi,7706407,Apartment,2
+2015-11-01,Hyderabad,7789244,Villa,2
+2015-12-01,Bangalore,8554986,Independent House,2
+2016-01-01,Chennai,6682807,Apartment,3
+2016-02-01,Mumbai,15111866,Villa,3
+2016-03-01,Delhi,8450156,Independent House,1
+2016-04-01,Hyderabad,5324877,Apartment,2
+2016-05-01,Bangalore,9836819,Villa,1
+2016-06-01,Chennai,8437719,Independent House,3
+2016-07-01,Mumbai,11120745,Apartment,4
+2016-08-01,Delhi,11683845,Villa,2
+2016-09-01,Hyderabad,7450819,Independent House,3
+2016-10-01,Bangalore,7434900,Apartment,2
+2016-11-01,Chennai,10757920,Villa,3
+2016-12-01,Mumbai,14000759,Independent House,4
+2017-01-01,Delhi,8476439,Apartment,3
+2017-02-01,Hyderabad,11239545,Villa,5
+2017-03-01,Bangalore,9656317,Independent House,3
+2017-04-01,Chennai,7961028,Apartment,5
+2017-05-01,Mumbai,16721423,Villa,3
+2017-06-01,Delhi,10445584,Independent House,2
+2017-07-01,Hyderabad,7512704,Apartment,5
+2017-08-01,Bangalore,11553055,Villa,2
+2017-09-01,Chennai,9395308,Independent House,3
+2017-10-01,Mumbai,10292740,Apartment,2
+2017-11-01,Delhi,14082339,Villa,4
+2017-12-01,Hyderabad,7711590,Independent House,3
+2018-01-01,Bangalore,8185048,Apartment,3
+2018-02-01,Chennai,10279868,Villa,2
+2018-03-01,Mumbai,16259242,Independent House,5
+2018-04-01,Delhi,9298924,Apartment,3
+2018-05-01,Hyderabad,9730781,Villa,3
+2018-06-01,Bangalore,9994846,Independent House,3
+2018-07-01,Chennai,7920436,Apartment,4
+2018-08-01,Mumbai,14480578,Villa,2
+2018-09-01,Delhi,11162875,Independent House,3
+2018-10-01,Hyderabad,6774375,Apartment,4
+2018-11-01,Bangalore,9938923,Villa,1
+2018-12-01,Chennai,10375936,Independent House,4
+2019-01-01,Mumbai,12605754,Apartment,4
+2019-02-01,Delhi,12859120,Villa,2
+2019-03-01,Hyderabad,8070748,Independent House,3
+2019-04-01,Bangalore,8302399,Apartment,3
+2019-05-01,Chennai,9591025,Villa,1
+2019-06-01,Mumbai,14721163,Independent House,4
+2019-07-01,Delhi,8474057,Apartment,2
+2019-08-01,Hyderabad,10905526,Villa,4
+2019-09-01,Bangalore,10500861,Independent House,3
+2019-10-01,Chennai,7956041,Apartment,3
+2019-11-01,Mumbai,19384586,Villa,5
+2019-12-01,Delhi,11490695,Independent House,3
+2020-01-01,Hyderabad,7457335,Apartment,4
+2020-02-01,Bangalore,12815462,Villa,3
+2020-03-01,Chennai,8308087,Independent House,1
+2020-04-01,Mumbai,14352073,Apartment,5
+2020-05-01,Delhi,16402327,Villa,5
+2020-06-01,Hyderabad,8881700,Independent House,4
+2020-07-01,Bangalore,10643760,Apartment,5
+2020-08-01,Chennai,13149946,Villa,4
+2020-09-01,Mumbai,17794528,Independent House,5
+2020-10-01,Delhi,11063739,Apartment,5
+2020-11-01,Hyderabad,10748497,Villa,3
+2020-12-01,Bangalore,11585672,Independent House,4
+2021-01-01,Chennai,8019157,Apartment,3
+2021-02-01,Mumbai,16243230,Villa,2
+2021-03-01,Delhi,14238879,Independent House,4
+2021-04-01,Hyderabad,7302221,Apartment,3
+2021-05-01,Bangalore,12294094,Villa,2
+2021-06-01,Chennai,8022471,Independent House,1
+2021-07-01,Mumbai,12317158,Apartment,3
+2021-08-01,Delhi,14018556,Villa,2
+2021-09-01,Hyderabad,9892360,Independent House,4
+2021-10-01,Bangalore,9328727,Apartment,3
+2021-11-01,Chennai,11267275,Villa,2
+2021-12-01,Mumbai,14609224,Independent House,3
+2022-01-01,Delhi,8291338,Apartment,1
+2022-02-01,Hyderabad,11625863,Villa,4
+2022-03-01,Bangalore,12318944,Independent House,4
+2022-04-01,Chennai,7799289,Apartment,2
+2022-05-01,Mumbai,18593667,Villa,3
+2022-06-01,Delhi,13843093,Independent House,4
+2022-07-01,Hyderabad,6028933,Apartment,1
+2022-08-01,Bangalore,12734565,Villa,2
+2022-09-01,Chennai,9646152,Independent House,2
+2022-10-01,Mumbai,12926617,Apartment,3
+2022-11-01,Delhi,15294276,Villa,3
+2022-12-01,Hyderabad,9423697,Independent House,3
+2023-01-01,Bangalore,10866806,Apartment,5
+2023-02-01,Chennai,10291432,Villa,1
+2023-03-01,Mumbai,17416441,Independent House,4
+2023-04-01,Delhi,11534711,Apartment,4
+2023-05-01,Hyderabad,10279215,Villa,2
+2023-06-01,Bangalore,13187210,Independent House,4
+2023-07-01,Chennai,6900238,Apartment,1
+2023-08-01,Mumbai,18914954,Villa,3
+2023-09-01,Delhi,12412740,Independent House,2
+2023-10-01,Hyderabad,6173003,Apartment,1
+2023-11-01,Bangalore,11720570,Villa,1
+2023-12-01,Chennai,13226444,Independent House,5
+2024-01-01,Mumbai,12467743,Apartment,3
+2024-02-01,Delhi,19950477,Villa,5
+2024-03-01,Hyderabad,9066168,Independent House,3
+2024-04-01,Bangalore,9274074,Apartment,2
+2024-05-01,Chennai,10684934,Villa,1
+2024-06-01,Mumbai,14521119,Independent House,2
+2024-07-01,Delhi,8560818,Apartment,1
+2024-08-01,Hyderabad,10607722,Villa,2
+2024-09-01,Bangalore,11500630,Independent House,2
+2024-10-01,Chennai,9001487,Apartment,3
+2024-11-01,Mumbai,17617810,Villa,2
+2024-12-01,Delhi,16934348,Independent House,5
+2025-01-01,Hyderabad,8130385,Apartment,3
+2025-02-01,Bangalore,16932673,Villa,4
+2025-03-01,Chennai,10704753,Independent House,3
+2025-04-01,Mumbai,14007136,Apartment,3
+2025-05-01,Delhi,16816050,Villa,3
+2025-06-01,Hyderabad,8786610,Independent House,2
+2025-07-01,Bangalore,9586221,Apartment,2
+2025-08-01,Chennai,16508849,Villa,5
+2025-09-01,Mumbai,16981421,Independent House,3
+2025-10-01,Delhi,11064651,Apartment,3
+2025-11-01,Hyderabad,12335044,Villa,4
+2025-12-01,Bangalore,13723011,Independent House,4
+2026-01-01,Chennai,8517496,Apartment,2
+2026-02-01,Mumbai,21365506,Villa,3
+2026-03-01,Delhi,14821454,Independent House,3
+2026-04-01,Hyderabad,8379723,Apartment,3
+2026-05-01,Bangalore,13790552,Villa,2
+2026-06-01,Chennai,13977693,Independent House,5
+2026-07-01,Mumbai,12894783,Apartment,2
+2026-08-01,Delhi,16649384,Villa,3
+2026-09-01,Hyderabad,11548420,Independent House,4
+2026-10-01,Bangalore,11628503,Apartment,4
+2026-11-01,Chennai,13329133,Villa,3
+2026-12-01,Mumbai,16345787,Independent House,2
+2027-01-01,Delhi,12106356,Apartment,3
+2027-02-01,Hyderabad,15030546,Villa,5
+2027-03-01,Bangalore,12774774,Independent House,3
+2027-04-01,Chennai,10161714,Apartment,4
+2027-05-01,Mumbai,22955095,Villa,4
+2027-06-01,Delhi,14891507,Independent House,3
+2027-07-01,Hyderabad,7819588,Apartment,2
+2027-08-01,Bangalore,18914421,Villa,5
+2027-09-01,Chennai,11963520,Independent House,3
+2027-10-01,Mumbai,15283149,Apartment,4
+2027-11-01,Delhi,15623227,Villa,2
+2027-12-01,Hyderabad,10361705,Independent House,3
+2028-01-01,Bangalore,11056089,Apartment,3
+2028-02-01,Chennai,13963141,Villa,3
+2028-03-01,Mumbai,20355281,Independent House,4
+2028-04-01,Delhi,10662988,Apartment,2
+2028-05-01,Hyderabad,11504836,Villa,2
+2028-06-01,Bangalore,16137378,Independent House,5
+2028-07-01,Chennai,9088670,Apartment,2
+2028-08-01,Mumbai,23477292,Villa,4
+2028-09-01,Delhi,15315816,Independent House,3
+2028-10-01,Hyderabad,9421100,Apartment,4
+2028-11-01,Bangalore,12938431,Villa,1
+2028-12-01,Chennai,13014231,Independent House,4
+2029-01-01,Mumbai,13030045,Apartment,2
+2029-02-01,Delhi,20986109,Villa,4
+2029-03-01,Hyderabad,12114512,Independent House,5
+2029-04-01,Bangalore,10905258,Apartment,3
+2029-05-01,Chennai,14774842,Villa,3
+2029-06-01,Mumbai,18122976,Independent House,3
+2029-07-01,Delhi,12199780,Apartment,3
+2029-08-01,Hyderabad,11512586,Villa,2
+2029-09-01,Bangalore,16319566,Independent House,5
+2029-10-01,Chennai,9886356,Apartment,3
+2029-11-01,Mumbai,21699986,Villa,3
+2029-12-01,Delhi,13265669,Independent House,1
+2030-01-01,Hyderabad,9233353,Apartment,4
+2030-02-01,Bangalore,17960768,Villa,4
+2030-03-01,Chennai,13154449,Independent House,3
+2030-04-01,Mumbai,17099857,Apartment,4
+2030-05-01,Delhi,17288797,Villa,2
+2030-06-01,Hyderabad,10458793,Independent House,2
+2030-07-01,Bangalore,9694382,Apartment,1
+2030-08-01,Chennai,17255781,Villa,4
+2030-09-01,Mumbai,20064103,Independent House,4
+2030-10-01,Delhi,13038652,Apartment,3
+2030-11-01,Hyderabad,15978005,Villa,5
+2030-12-01,Bangalore,13482960,Independent House,2
+2031-01-01,Chennai,8475092,Apartment,1
+2031-02-01,Mumbai,22559396,Villa,3
+2031-03-01,Delhi,16661483,Independent House,3
+2031-04-01,Hyderabad,10215983,Apartment,5
+2031-05-01,Bangalore,20303387,Villa,5
+2031-06-01,Chennai,13203485,Independent House,3
+2031-07-01,Mumbai,15670576,Apartment,3
+2031-08-01,Delhi,19014436,Villa,3
+2031-09-01,Hyderabad,10808843,Independent House,2
+2031-10-01,Bangalore,12099517,Apartment,3
+2031-11-01,Chennai,16325374,Villa,3
+2031-12-01,Mumbai,19148622,Independent House,3
+2032-01-01,Delhi,13883618,Apartment,4
+2032-02-01,Hyderabad,13769691,Villa,3
+2032-03-01,Bangalore,12518439,Independent House,1
+2032-04-01,Chennai,9167572,Apartment,2
+2032-05-01,Mumbai,21736826,Villa,2
+2032-06-01,Delhi,16704063,Independent House,3
+2032-07-01,Hyderabad,8852953,Apartment,2
+2032-08-01,Bangalore,18119079,Villa,3
+2032-09-01,Chennai,11540357,Independent House,2
+2032-10-01,Mumbai,18206731,Apartment,5
+2032-11-01,Delhi,17812591,Villa,2
+2032-12-01,Hyderabad,10868079,Independent House,2
+2033-01-01,Bangalore,13715274,Apartment,4
+2033-02-01,Chennai,13617068,Villa,1
+2033-03-01,Mumbai,19737100,Independent House,3
+2033-04-01,Delhi,15637880,Apartment,5
+2033-05-01,Hyderabad,12584414,Villa,2
+2033-06-01,Bangalore,18494778,Independent House,5
+2033-07-01,Chennai,11296108,Apartment,3
+2033-08-01,Mumbai,22566357,Villa,2
+2033-09-01,Delhi,19432179,Independent House,5
+2033-10-01,Hyderabad,9079703,Apartment,2
+2033-11-01,Bangalore,21032785,Villa,5
+2033-12-01,Chennai,13781113,Independent House,3
+2034-01-01,Mumbai,16749399,Apartment,3
+2034-02-01,Delhi,19623942,Villa,3
+2034-03-01,Hyderabad,14291850,Independent House,5
+2034-04-01,Bangalore,13115122,Apartment,4
+2034-05-01,Chennai,17147663,Villa,3
+2034-06-01,Mumbai,18200940,Independent House,2
+2034-07-01,Delhi,11964934,Apartment,2
+2034-08-01,Hyderabad,12151752,Villa,1
+2034-09-01,Bangalore,18737309,Independent House,5
+2034-10-01,Chennai,11484618,Apartment,4
+2034-11-01,Mumbai,27973681,Villa,4
+2034-12-01,Delhi,15746675,Independent House,2
+2035-01-01,Hyderabad,9112668,Apartment,2
+2035-02-01,Bangalore,16791781,Villa,2
+2035-03-01,Chennai,14667453,Independent House,3
+2035-04-01,Mumbai,16299667,Apartment,3
+2035-05-01,Delhi,22491234,Villa,4
+2035-06-01,Hyderabad,12356619,Independent House,3
+2035-07-01,Bangalore,12782329,Apartment,3
+2035-08-01,Chennai,14840721,Villa,2
+2035-09-01,Mumbai,20242404,Independent House,2
+2035-10-01,Delhi,13884034,Apartment,3
+2035-11-01,Hyderabad,12911699,Villa,2
+2035-12-01,Bangalore,14798821,Independent House,2
+2036-01-01,Chennai,11894818,Apartment,3
+2036-02-01,Mumbai,26612349,Villa,3
+2036-03-01,Delhi,17022248,Independent House,3
+2036-04-01,Hyderabad,8006789,Apartment,1
+2036-05-01,Bangalore,21045309,Villa,4
+2036-06-01,Chennai,11514925,Independent House,1
+2036-07-01,Mumbai,15826404,Apartment,2
+2036-08-01,Delhi,23025201,Villa,4
+2036-09-01,Hyderabad,13466894,Independent House,4
+2036-10-01,Bangalore,14848353,Apartment,4
+2036-11-01,Chennai,15143939,Villa,2
+2036-12-01,Mumbai,18985594,Independent House,2
+2037-01-01,Delhi,15158830,Apartment,3
+2037-02-01,Hyderabad,13268477,Villa,2
+2037-03-01,Bangalore,16192816,Independent House,3
+2037-04-01,Chennai,10733817,Apartment,2
+2037-05-01,Mumbai,22647383,Villa,1
+2037-06-01,Delhi,19493106,Independent House,4
+2037-07-01,Hyderabad,8305224,Apartment,1
+2037-08-01,Bangalore,19097756,Villa,3
+2037-09-01,Chennai,11738528,Independent House,1
+2037-10-01,Mumbai,17842874,Apartment,3
+2037-11-01,Delhi,21516384,Villa,3
+2037-12-01,Hyderabad,15480119,Independent House,5
+2038-01-01,Bangalore,16441053,Apartment,5
+2038-02-01,Chennai,18377256,Villa,3
+2038-03-01,Mumbai,19440062,Independent House,2
+2038-04-01,Delhi,13647008,Apartment,2
+2038-05-01,Hyderabad,15110415,Villa,3
+2038-06-01,Bangalore,16912284,Independent House,3
+2038-07-01,Chennai,10533422,Apartment,2
+2038-08-01,Mumbai,25710208,Villa,3
+2038-09-01,Delhi,19893419,Independent House,4
+2038-10-01,Hyderabad,9111945,Apartment,2
+2038-11-01,Bangalore,17586565,Villa,2
+2038-12-01,Chennai,13556054,Independent House,2
+2039-01-01,Mumbai,20978245,Apartment,5
+2039-02-01,Delhi,19583431,Villa,1
+2039-03-01,Hyderabad,13323328,Independent House,3
+2039-04-01,Bangalore,13776593,Apartment,3
+2039-05-01,Chennai,20077983,Villa,4
+2039-06-01,Mumbai,26763892,Independent House,5
+2039-07-01,Delhi,12243968,Apartment,1
+2039-08-01,Hyderabad,18663878,Villa,5
+2039-09-01,Bangalore,16286168,Independent House,2
+2039-10-01,Chennai,12112091,Apartment,3
+2039-11-01,Mumbai,22348937,Villa,1
+2039-12-01,Delhi,19832148,Independent House,3
+2040-01-01,Hyderabad,13104904,Apartment,5
+2040-02-01,Bangalore,20908400,Villa,3
+2040-03-01,Chennai,12473024,Independent House,1
+2040-04-01,Mumbai,18970556,Apartment,3
+2040-05-01,Delhi,23123459,Villa,3
+2040-06-01,Hyderabad,13180746,Independent House,3
+2040-07-01,Bangalore,14932384,Apartment,4
+2040-08-01,Chennai,21303534,Villa,5
+2040-09-01,Mumbai,22728719,Independent House,3
+2040-10-01,Delhi,15152732,Apartment,3
+2040-11-01,Hyderabad,14474477,Villa,2
+2040-12-01,Bangalore,17332072,Independent House,3
+2041-01-01,Chennai,10824660,Apartment,1
+2041-02-01,Mumbai,24954997,Villa,2
+2041-03-01,Delhi,17377601,Independent House,2
+2041-04-01,Hyderabad,11255846,Apartment,3
+2041-05-01,Bangalore,19412160,Villa,2
+2041-06-01,Chennai,12988940,Independent House,1
+2041-07-01,Mumbai,18792465,Apartment,3
+2041-08-01,Delhi,26849837,Villa,5
+2041-09-01,Hyderabad,11408574,Independent House,1
+2041-10-01,Bangalore,15189960,Apartment,4
+2041-11-01,Chennai,19179171,Villa,3
+2041-12-01,Mumbai,22789320,Independent House,2
+2042-01-01,Delhi,16724910,Apartment,3
+2042-02-01,Hyderabad,14006845,Villa,1
+2042-03-01,Bangalore,20319938,Independent House,4
+2042-04-01,Chennai,12814151,Apartment,3
+2042-05-01,Mumbai,30490779,Villa,4
+2042-06-01,Delhi,19597781,Independent House,3
+2042-07-01,Hyderabad,10802373,Apartment,3
+2042-08-01,Bangalore,20418572,Villa,2
+2042-09-01,Chennai,16416056,Independent House,3
+2042-10-01,Mumbai,21881312,Apartment,4
+2042-11-01,Delhi,23823444,Villa,3
+2042-12-01,Hyderabad,12887487,Independent House,2
+2043-01-01,Bangalore,14256114,Apartment,3
+2043-02-01,Chennai,19045042,Villa,3
+2043-03-01,Mumbai,25541494,Independent House,4
+2043-04-01,Delhi,18690828,Apartment,5
+2043-05-01,Hyderabad,17251065,Villa,3
+2043-06-01,Bangalore,19413999,Independent House,4
+2043-07-01,Chennai,13239377,Apartment,3
+2043-08-01,Mumbai,24321750,Villa,1
+2043-09-01,Delhi,20785214,Independent House,3
+2043-10-01,Hyderabad,12762105,Apartment,4
+2043-11-01,Bangalore,26859238,Villa,5
+2043-12-01,Chennai,16319009,Independent House,3
+2044-01-01,Mumbai,19264115,Apartment,3
+2044-02-01,Delhi,22999880,Villa,2
+2044-03-01,Hyderabad,14743176,Independent House,3
+2044-04-01,Bangalore,12388420,Apartment,1
+2044-05-01,Chennai,19407274,Villa,3
+2044-06-01,Mumbai,22623070,Independent House,2
+2044-07-01,Delhi,15050264,Apartment,2
+2044-08-01,Hyderabad,19601447,Villa,5
+2044-09-01,Bangalore,17777223,Independent House,2
+2044-10-01,Chennai,12346699,Apartment,2
+2044-11-01,Mumbai,36900410,Villa,5
+2044-12-01,Delhi,20635927,Independent House,3
+2045-01-01,Hyderabad,12842245,Apartment,4
+2045-02-01,Bangalore,22097357,Villa,3
+2045-03-01,Chennai,15764560,Independent House,2
+2045-04-01,Mumbai,22837648,Apartment,4
+2045-05-01,Delhi,25244638,Villa,3
+2045-06-01,Hyderabad,16865125,Independent House,5
+2045-07-01,Bangalore,13348571,Apartment,2
+2045-08-01,Chennai,16607293,Villa,1
+2045-09-01,Mumbai,29575741,Independent House,5
+2045-10-01,Delhi,17341864,Apartment,3
+2045-11-01,Hyderabad,18643576,Villa,3
+2045-12-01,Bangalore,17202271,Independent House,2
+2046-01-01,Chennai,13602934,Apartment,3
+2046-02-01,Mumbai,34421118,Villa,4
+2046-03-01,Delhi,22609339,Independent House,4
+2046-04-01,Hyderabad,9785090,Apartment,1
+2046-05-01,Bangalore,20634481,Villa,2
+2046-06-01,Chennai,13672957,Independent House,1
+2046-07-01,Mumbai,23374998,Apartment,4
+2046-08-01,Delhi,27647290,Villa,4
+2046-09-01,Hyderabad,14449809,Independent House,2
+2046-10-01,Bangalore,16381663,Apartment,4
+2046-11-01,Chennai,19076225,Villa,2
+2046-12-01,Mumbai,21076412,Independent House,1
+2047-01-01,Delhi,17917148,Apartment,3
+2047-02-01,Hyderabad,15477120,Villa,1
+2047-03-01,Bangalore,19872928,Independent House,3
+2047-04-01,Chennai,13765617,Apartment,3
+2047-05-01,Mumbai,26265124,Villa,1
+2047-06-01,Delhi,26801885,Independent House,5
+2047-07-01,Hyderabad,12538637,Apartment,3
+2047-08-01,Bangalore,23700093,Villa,3
+2047-09-01,Chennai,15042338,Independent House,1
+2047-10-01,Mumbai,23581115,Apartment,4
+2047-11-01,Delhi,23478429,Villa,2
+2047-12-01,Hyderabad,13798402,Independent House,2
+2048-01-01,Bangalore,13215940,Apartment,1
+2048-02-01,Chennai,22143471,Villa,4
+2048-03-01,Mumbai,30912093,Independent House,5
+2048-04-01,Delhi,17876821,Apartment,3
+2048-05-01,Hyderabad,21063388,Villa,4
+2048-06-01,Bangalore,17008299,Independent House,1
+2048-07-01,Chennai,14893294,Apartment,3
+2048-08-01,Mumbai,32786584,Villa,3
+2048-09-01,Delhi,20219220,Independent House,2
+2048-10-01,Hyderabad,12150347,Apartment,3
+2048-11-01,Bangalore,26889738,Villa,4
+2048-12-01,Chennai,16704925,Independent House,2
+2049-01-01,Mumbai,21922049,Apartment,3
+2049-02-01,Delhi,25637036,Villa,3
+2049-03-01,Hyderabad,17700534,Independent House,4
+2049-04-01,Bangalore,14364586,Apartment,2
+2049-05-01,Chennai,20300829,Villa,2
+2049-06-01,Mumbai,30465860,Independent House,4
+2049-07-01,Delhi,17839246,Apartment,3
+2049-08-01,Hyderabad,22764811,Villa,5
+2049-09-01,Bangalore,20690016,Independent House,3
+2049-10-01,Chennai,16054382,Apartment,4
+2049-11-01,Mumbai,34324038,Villa,4
+2049-12-01,Delhi,19717415,Independent House,2
+2050-01-01,Hyderabad,15152567,Apartment,5
+2050-02-01,Bangalore,21667049,Villa,2
+2050-03-01,Chennai,20030535,Independent House,4
+2050-04-01,Mumbai,17446244,Apartment,1
+2050-05-01,Delhi,30104477,Villa,4
+2050-06-01,Hyderabad,16806867,Independent House,3
+2050-07-01,Bangalore,18564609,Apartment,4
+2050-08-01,Chennai,22323305,Villa,3
+2050-09-01,Mumbai,23287009,Independent House,1
+2050-10-01,Delhi,20669266,Apartment,4
+2050-11-01,Hyderabad,20044655,Villa,3
+2050-12-01,Bangalore,22478658,Independent House,4
+2051-01-01,Chennai,13355502,Apartment,2
+2051-02-01,Mumbai,35237089,Villa,4
+2051-03-01,Delhi,24318516,Independent House,3
+2051-04-01,Hyderabad,11865728,Apartment,2
+2051-05-01,Bangalore,20699683,Villa,1
+2051-06-01,Chennai,14637906,Independent House,1
+2051-07-01,Mumbai,23267838,Apartment,3
+2051-08-01,Delhi,31517182,Villa,4
+2051-09-01,Hyderabad,13342533,Independent House,1
+2051-10-01,Bangalore,17821688,Apartment,4
+2051-11-01,Chennai,20945508,Villa,2
+2051-12-01,Mumbai,29578664,Independent House,4
+2052-01-01,Delhi,20519159,Apartment,4
+2052-02-01,Hyderabad,21597686,Villa,4
+2052-03-01,Bangalore,22340272,Independent House,4
+2052-04-01,Chennai,14303881,Apartment,2
+2052-05-01,Mumbai,30634391,Villa,2
+2052-06-01,Delhi,23503361,Independent House,3
+2052-07-01,Hyderabad,15644537,Apartment,5
+2052-08-01,Bangalore,29133959,Villa,5
+2052-09-01,Chennai,19631926,Independent House,3
+2052-10-01,Mumbai,20544414,Apartment,2
+2052-11-01,Delhi,29819877,Villa,4
+2052-12-01,Hyderabad,16463124,Independent House,3
+2053-01-01,Bangalore,18635871,Apartment,4
+2053-02-01,Chennai,27096282,Villa,5
+2053-03-01,Mumbai,25924841,Independent House,2
+2053-04-01,Delhi,20154514,Apartment,4
+2053-05-01,Hyderabad,19209425,Villa,3
+2053-06-01,Bangalore,24260361,Independent House,5
+2053-07-01,Chennai,15409457,Apartment,3
+2053-08-01,Mumbai,36358881,Villa,4
+2053-09-01,Delhi,24283748,Independent House,3
+2053-10-01,Hyderabad,13159324,Apartment,3
+2053-11-01,Bangalore,30307978,Villa,5
+2053-12-01,Chennai,21405725,Independent House,4
+2054-01-01,Mumbai,23020462,Apartment,3
+2054-02-01,Delhi,28880672,Villa,3
+2054-03-01,Hyderabad,14006698,Independent House,1
+2054-04-01,Bangalore,20539423,Apartment,5
+2054-05-01,Chennai,20634301,Villa,2
+2054-06-01,Mumbai,26710336,Independent House,2
+2054-07-01,Delhi,20413051,Apartment,4
+2054-08-01,Hyderabad,22621612,Villa,4
+2054-09-01,Bangalore,21056663,Independent House,3
+2054-10-01,Chennai,15492123,Apartment,3
+2054-11-01,Mumbai,33597632,Villa,3
+2054-12-01,Delhi,23781593,Independent House,3
+2055-01-01,Hyderabad,15670555,Apartment,4
+2055-02-01,Bangalore,31641916,Villa,5
+2055-03-01,Chennai,18131160,Independent House,2
+2055-04-01,Mumbai,22026407,Apartment,2
+2055-05-01,Delhi,34299776,Villa,5
+2055-06-01,Hyderabad,17272116,Independent House,3
+2055-07-01,Bangalore,18358250,Apartment,3
+2055-08-01,Chennai,25504919,Villa,4
+2055-09-01,Mumbai,30709162,Independent House,3
+2055-10-01,Delhi,20407290,Apartment,3
+2055-11-01,Hyderabad,18421238,Villa,2
+2055-12-01,Bangalore,23287172,Independent House,3
+2056-01-01,Chennai,15307997,Apartment,3
+2056-02-01,Mumbai,34314211,Villa,2
+2056-03-01,Delhi,23686269,Independent House,2
+2056-04-01,Hyderabad,14494212,Apartment,4
+2056-05-01,Bangalore,22909314,Villa,1
+2056-06-01,Chennai,22023127,Independent House,4
+2056-07-01,Mumbai,26241717,Apartment,4
+2056-08-01,Delhi,35768684,Villa,5
+2056-09-01,Hyderabad,16749275,Independent House,3
+2056-10-01,Bangalore,17573716,Apartment,3
+2056-11-01,Chennai,24186849,Villa,3
+2056-12-01,Mumbai,26926972,Independent House,2
+2057-01-01,Delhi,18750652,Apartment,2
+2057-02-01,Hyderabad,24838715,Villa,5
+2057-03-01,Bangalore,25698830,Independent House,4
+2057-04-01,Chennai,18145750,Apartment,4
+2057-05-01,Mumbai,36997093,Villa,3
+2057-06-01,Delhi,24755134,Independent House,3
+2057-07-01,Hyderabad,16824756,Apartment,5
+2057-08-01,Bangalore,23395896,Villa,1
+2057-09-01,Chennai,22173822,Independent House,4
+2057-10-01,Mumbai,25445084,Apartment,4
+2057-11-01,Delhi,30224163,Villa,3
+2057-12-01,Hyderabad,16899171,Independent House,2
+2058-01-01,Bangalore,17407850,Apartment,2
+2058-02-01,Chennai,26195221,Villa,4
+2058-03-01,Mumbai,29276616,Independent House,2
+2058-04-01,Delhi,21156920,Apartment,3
+2058-05-01,Hyderabad,18993467,Villa,2
+2058-06-01,Bangalore,23231859,Independent House,3
+2058-07-01,Chennai,18207511,Apartment,4
+2058-08-01,Mumbai,35388869,Villa,3
+2058-09-01,Delhi,24147703,Independent House,2
+2058-10-01,Hyderabad,13790574,Apartment,2
+2058-11-01,Bangalore,29103130,Villa,3
+2058-12-01,Chennai,18520868,Independent House,2
+2059-01-01,Mumbai,23153142,Apartment,2
+2059-02-01,Delhi,33309451,Villa,4
+2059-03-01,Hyderabad,20195645,Independent House,4
+2059-04-01,Bangalore,19729125,Apartment,4
+2059-05-01,Chennai,25519565,Villa,3
+2059-06-01,Mumbai,33229332,Independent House,4
+2059-07-01,Delhi,19312469,Apartment,2
+2059-08-01,Hyderabad,23107509,Villa,3
+2059-09-01,Bangalore,18790254,Independent House,1
+2059-10-01,Chennai,18641977,Apartment,4
+2059-11-01,Mumbai,37511273,Villa,3
+2059-12-01,Delhi,25159531,Independent House,3
+2060-01-01,Hyderabad,17433515,Apartment,5
+2060-02-01,Bangalore,28142702,Villa,3
+2060-03-01,Chennai,16846775,Independent House,1
+2060-04-01,Mumbai,25892448,Apartment,3
+2060-05-01,Delhi,32882332,Villa,4
+2060-06-01,Hyderabad,17735489,Independent House,2
+2060-07-01,Bangalore,16906750,Apartment,2
+2060-08-01,Chennai,26670709,Villa,3
+2060-09-01,Mumbai,26593689,Independent House,1
+2060-10-01,Delhi,18234756,Apartment,1
+2060-11-01,Hyderabad,18446959,Villa,1
+2060-12-01,Bangalore,27316465,Independent House,4
+2061-01-01,Chennai,20972814,Apartment,5
+2061-02-01,Mumbai,34431986,Villa,2
+2061-03-01,Delhi,26173132,Independent House,3
+2061-04-01,Hyderabad,14595792,Apartment,3
+2061-05-01,Bangalore,34296868,Villa,5
+2061-06-01,Chennai,22883874,Independent House,4
+2061-07-01,Mumbai,22727997,Apartment,2
+2061-08-01,Delhi,28998791,Villa,2
+2061-09-01,Hyderabad,16483510,Independent House,2
+2061-10-01,Bangalore,21151435,Apartment,4
+2061-11-01,Chennai,25367582,Villa,3
+2061-12-01,Mumbai,28425224,Independent House,2
+2062-01-01,Delhi,22840701,Apartment,4
+2062-02-01,Hyderabad,21492347,Villa,2
+2062-03-01,Bangalore,25900693,Independent House,4
+2062-04-01,Chennai,15843895,Apartment,2
+2062-05-01,Mumbai,37421894,Villa,2
+2062-06-01,Delhi,23277008,Independent House,1
+2062-07-01,Hyderabad,14593401,Apartment,3
+2062-08-01,Bangalore,29372731,Villa,3
+2062-09-01,Chennai,21025615,Independent House,3
+2062-10-01,Mumbai,31770480,Apartment,5
+2062-11-01,Delhi,26102645,Villa,1
+2062-12-01,Hyderabad,16934687,Independent House,2
+2063-01-01,Bangalore,23603543,Apartment,5
+2063-02-01,Chennai,27559494,Villa,3
+2063-03-01,Mumbai,31434633,Independent House,3
+2063-04-01,Delhi,19890106,Apartment,2
+2063-05-01,Hyderabad,22423723,Villa,3
+2063-06-01,Bangalore,21790862,Independent House,2
+2063-07-01,Chennai,15399929,Apartment,2
+2063-08-01,Mumbai,37556672,Villa,2
+2063-09-01,Delhi,33129303,Independent House,5
+2063-10-01,Hyderabad,16596678,Apartment,4
+2063-11-01,Bangalore,28422426,Villa,2
+2063-12-01,Chennai,20080440,Independent House,2
+2064-01-01,Mumbai,27831942,Apartment,4
+2064-02-01,Delhi,31881326,Villa,3
+2064-03-01,Hyderabad,20020970,Independent House,3
+2064-04-01,Bangalore,18568545,Apartment,2
+2064-05-01,Chennai,24553955,Villa,2
+2064-06-01,Mumbai,37590530,Independent House,4
+2064-07-01,Delhi,22715475,Apartment,3
+2064-08-01,Hyderabad,22341174,Villa,2
+2064-09-01,Bangalore,28720912,Independent House,4
+2064-10-01,Chennai,17194858,Apartment,3
+2064-11-01,Mumbai,41954739,Villa,4
+2064-12-01,Delhi,22324221,Independent House,1
+2065-01-01,Hyderabad,14602021,Apartment,2
+2065-02-01,Bangalore,33340227,Villa,4
+2065-03-01,Chennai,22366846,Independent House,3
+2065-04-01,Mumbai,25666981,Apartment,2
+2065-05-01,Delhi,33694281,Villa,3
+2065-06-01,Hyderabad,20524851,Independent House,3
+2065-07-01,Bangalore,18429731,Apartment,2
+2065-08-01,Chennai,25626268,Villa,2
+2065-09-01,Mumbai,39870772,Independent House,5
+2065-10-01,Delhi,23202386,Apartment,3
+2065-11-01,Hyderabad,24307607,Villa,3
+2065-12-01,Bangalore,27983469,Independent House,4
+2066-01-01,Chennai,17630158,Apartment,3
+2066-02-01,Mumbai,41495455,Villa,3
+2066-03-01,Delhi,22350034,Independent House,1
+2066-04-01,Hyderabad,17761537,Apartment,4
+2066-05-01,Bangalore,30142904,Villa,3
+2066-06-01,Chennai,21465190,Independent House,2
+2066-07-01,Mumbai,26715775,Apartment,3
+2066-08-01,Delhi,35253192,Villa,3
+2066-09-01,Hyderabad,20001809,Independent House,3
+2066-10-01,Bangalore,21537102,Apartment,3
+2066-11-01,Chennai,25453015,Villa,2
+2066-12-01,Mumbai,37201493,Independent House,4
+2067-01-01,Delhi,22126395,Apartment,3
+2067-02-01,Hyderabad,24821064,Villa,3
+2067-03-01,Bangalore,23169322,Independent House,2
+2067-04-01,Chennai,19835885,Apartment,4
+2067-05-01,Mumbai,40234535,Villa,3
+2067-06-01,Delhi,23242581,Independent House,1
+2067-07-01,Hyderabad,18288599,Apartment,4
+2067-08-01,Bangalore,28650638,Villa,2
+2067-09-01,Chennai,25620494,Independent House,4
+2067-10-01,Mumbai,29016263,Apartment,3
+2067-11-01,Delhi,31063593,Villa,2
+2067-12-01,Hyderabad,18434074,Independent House,2
+2068-01-01,Bangalore,20934727,Apartment,3
+2068-02-01,Chennai,26942531,Villa,3
+2068-03-01,Mumbai,35348928,Independent House,3
+2068-04-01,Delhi,20510534,Apartment,2
+2068-05-01,Hyderabad,27603976,Villa,4
+2068-06-01,Bangalore,26849227,Independent House,3
+2068-07-01,Chennai,19032130,Apartment,3
+2068-08-01,Mumbai,36911607,Villa,2
+2068-09-01,Delhi,34343125,Independent House,5
+2068-10-01,Hyderabad,17314790,Apartment,3
+2068-11-01,Bangalore,33038222,Villa,4
+2068-12-01,Chennai,24563072,Independent House,3
+2069-01-01,Mumbai,29542954,Apartment,3
+2069-02-01,Delhi,29242938,Villa,1
+2069-03-01,Hyderabad,21345421,Independent House,3
+2069-04-01,Bangalore,19896084,Apartment,2
+2069-05-01,Chennai,31814932,Villa,4
+2069-06-01,Mumbai,36179075,Independent House,3
+2069-07-01,Delhi,23141843,Apartment,3
+2069-08-01,Hyderabad,24371857,Villa,3
+2069-09-01,Bangalore,27378635,Independent House,3
+2069-10-01,Chennai,18543300,Apartment,3
+2069-11-01,Mumbai,37868600,Villa,2
+2069-12-01,Delhi,25937863,Independent House,2
+2070-01-01,Hyderabad,16295932,Apartment,3
+2070-02-01,Bangalore,35562059,Villa,4
+2070-03-01,Chennai,27266808,Independent House,4
+2070-04-01,Mumbai,30037769,Apartment,3
+2070-05-01,Delhi,39889745,Villa,4
+2070-06-01,Hyderabad,17222999,Independent House,1
+2070-07-01,Bangalore,19715358,Apartment,2
+2070-08-01,Chennai,29099453,Villa,3
+2070-09-01,Mumbai,34764174,Independent House,3
+2070-10-01,Delhi,22106339,Apartment,2
+2070-11-01,Hyderabad,20037799,Villa,1
+2070-12-01,Bangalore,28224760,Independent House,3
+2071-01-01,Chennai,18370985,Apartment,2
+2071-02-01,Mumbai,35196529,Villa,1
+2071-03-01,Delhi,36254397,Independent House,5
+2071-04-01,Hyderabad,17497095,Apartment,3
+2071-05-01,Bangalore,31430303,Villa,3
+2071-06-01,Chennai,27107088,Independent House,4
+2071-07-01,Mumbai,25862532,Apartment,2
+2071-08-01,Delhi,41768056,Villa,5
+2071-09-01,Hyderabad,20894529,Independent House,3
+2071-10-01,Bangalore,18741353,Apartment,1
+2071-11-01,Chennai,25010524,Villa,1
+2071-12-01,Mumbai,35844504,Independent House,3
+2072-01-01,Delhi,26924958,Apartment,4
+2072-02-01,Hyderabad,22789088,Villa,2
+2072-03-01,Bangalore,28344567,Independent House,3
+2072-04-01,Chennai,20573167,Apartment,3
+2072-05-01,Mumbai,42862335,Villa,3
+2072-06-01,Delhi,31465567,Independent House,3
+2072-07-01,Hyderabad,21154569,Apartment,5
+2072-08-01,Bangalore,34019048,Villa,3
+2072-09-01,Chennai,28145075,Independent House,4
+2072-10-01,Mumbai,23445779,Apartment,1
+2072-11-01,Delhi,41635611,Villa,5
+2072-12-01,Hyderabad,20891999,Independent House,3
+2073-01-01,Bangalore,23399651,Apartment,4
+2073-02-01,Chennai,29913399,Villa,3
+2073-03-01,Mumbai,32321900,Independent House,2
+2073-04-01,Delhi,23191050,Apartment,2
+2073-05-01,Hyderabad,29587966,Villa,4
+2073-06-01,Bangalore,31343761,Independent House,5
+2073-07-01,Chennai,22652281,Apartment,4
+2073-08-01,Mumbai,36651201,Villa,1
+2073-09-01,Delhi,37620046,Independent House,5
+2073-10-01,Hyderabad,15440496,Apartment,2
+2073-11-01,Bangalore,28902650,Villa,1
+2073-12-01,Chennai,24362393,Independent House,3
+2074-01-01,Mumbai,31448817,Apartment,3
+2074-02-01,Delhi,37062909,Villa,3
+2074-03-01,Hyderabad,22655316,Independent House,3
+2074-04-01,Bangalore,21756328,Apartment,3
+2074-05-01,Chennai,23874106,Villa,1
+2074-06-01,Mumbai,35739510,Independent House,2
+2074-07-01,Delhi,23199327,Apartment,2
+2074-08-01,Hyderabad,31501362,Villa,5
+2074-09-01,Bangalore,27871069,Independent House,3
+2074-10-01,Chennai,17875871,Apartment,2
+2074-11-01,Mumbai,39827762,Villa,2
+2074-12-01,Delhi,26806725,Independent House,1
+2075-01-01,Hyderabad,16704776,Apartment,2
+2075-02-01,Bangalore,32837820,Villa,3
+2075-03-01,Chennai,26652617,Independent House,3
+2075-04-01,Mumbai,30265379,Apartment,3
+2075-05-01,Delhi,43324275,Villa,5
+2075-06-01,Hyderabad,20984192,Independent House,2
+2075-07-01,Bangalore,25040266,Apartment,4
+2075-08-01,Chennai,29350818,Villa,3
+2075-09-01,Mumbai,35882730,Independent House,2
+2075-10-01,Delhi,23684494,Apartment,2
+2075-11-01,Hyderabad,24835360,Villa,2
+2075-12-01,Bangalore,28373546,Independent House,3
+2076-01-01,Chennai,18406476,Apartment,2
+2076-02-01,Mumbai,36522224,Villa,1
+2076-03-01,Delhi,38759485,Independent House,5
+2076-04-01,Hyderabad,15005966,Apartment,1
+2076-05-01,Bangalore,39586153,Villa,4
+2076-06-01,Chennai,26407046,Independent House,3
+2076-07-01,Mumbai,34755860,Apartment,4
+2076-08-01,Delhi,37578787,Villa,3
+2076-09-01,Hyderabad,23502897,Independent House,3
+2076-10-01,Bangalore,19803200,Apartment,1
+2076-11-01,Chennai,32264057,Villa,3
+2076-12-01,Mumbai,38116731,Independent House,3
+2077-01-01,Delhi,25750449,Apartment,3
+2077-02-01,Hyderabad,23688891,Villa,2
+2077-03-01,Bangalore,29014003,Independent House,3
+2077-04-01,Chennai,18735361,Apartment,2
+2077-05-01,Mumbai,39545128,Villa,1
+2077-06-01,Delhi,32307397,Independent House,3
+2077-07-01,Hyderabad,20902548,Apartment,5
+2077-08-01,Bangalore,37793973,Villa,4
+2077-09-01,Chennai,27858666,Independent House,4
+2077-10-01,Mumbai,32527048,Apartment,3
+2077-11-01,Delhi,41670978,Villa,4
+2077-12-01,Hyderabad,25556788,Independent House,4
+2078-01-01,Bangalore,18885732,Apartment,1
+2078-02-01,Chennai,30867959,Villa,3
+2078-03-01,Mumbai,34468532,Independent House,2
+2078-04-01,Delhi,28370901,Apartment,4
+2078-05-01,Hyderabad,25610270,Villa,2
+2078-06-01,Bangalore,35060952,Independent House,5
+2078-07-01,Chennai,23495066,Apartment,4
+2078-08-01,Mumbai,57330753,Villa,5
+2078-09-01,Delhi,31583574,Independent House,2
+2078-10-01,Hyderabad,18044615,Apartment,3
+2078-11-01,Bangalore,42858302,Villa,5
+2078-12-01,Chennai,23292725,Independent House,2
+2079-01-01,Mumbai,35340800,Apartment,4
+2079-02-01,Delhi,39934348,Villa,3
+2079-03-01,Hyderabad,23332729,Independent House,3
+2079-04-01,Bangalore,25674498,Apartment,4
+2079-05-01,Chennai,36227962,Villa,5
+2079-06-01,Mumbai,44078149,Independent House,4
+2079-07-01,Delhi,27396616,Apartment,3
+2079-08-01,Hyderabad,21912860,Villa,1
+2079-09-01,Bangalore,30796631,Independent House,3
+2079-10-01,Chennai,18715661,Apartment,2
+2079-11-01,Mumbai,42492276,Villa,2
+2079-12-01,Delhi,32266690,Independent House,3
+2080-01-01,Hyderabad,16764042,Apartment,2
+2080-02-01,Bangalore,37708653,Villa,3
+2080-03-01,Chennai,26732487,Independent House,3
+2080-04-01,Mumbai,33880974,Apartment,4
+2080-05-01,Delhi,41332738,Villa,3
+2080-06-01,Hyderabad,23417676,Independent House,3
+2080-07-01,Bangalore,24368800,Apartment,3
+2080-08-01,Chennai,31835331,Villa,3
+2080-09-01,Mumbai,48321774,Independent House,5
+2080-10-01,Delhi,24370603,Apartment,2
+2080-11-01,Hyderabad,24988904,Villa,2
+2080-12-01,Bangalore,37149654,Independent House,5
+2081-01-01,Chennai,19841530,Apartment,2
+2081-02-01,Mumbai,47400227,Villa,3
+2081-03-01,Delhi,26774185,Independent House,1
+2081-04-01,Hyderabad,21406477,Apartment,4
+2081-05-01,Bangalore,35056318,Villa,3
+2081-06-01,Chennai,25568532,Independent House,2
+2081-07-01,Mumbai,32029138,Apartment,3
+2081-08-01,Delhi,33968773,Villa,1
+2081-09-01,Hyderabad,20888179,Independent House,2
+2081-10-01,Bangalore,27819944,Apartment,4
+2081-11-01,Chennai,35725245,Villa,4
+2081-12-01,Mumbai,39413207,Independent House,3
+2082-01-01,Delhi,24565186,Apartment,2
+2082-02-01,Hyderabad,29793325,Villa,3
+2082-03-01,Bangalore,35389200,Independent House,5
+2082-04-01,Chennai,24217575,Apartment,4
+2082-05-01,Mumbai,41844689,Villa,1
+2082-06-01,Delhi,32250530,Independent House,2
+2082-07-01,Hyderabad,18997414,Apartment,3
+2082-08-01,Bangalore,32895401,Villa,2
+2082-09-01,Chennai,28179843,Independent House,3
+2082-10-01,Mumbai,35327466,Apartment,4
+2082-11-01,Delhi,33995403,Villa,1
+2082-12-01,Hyderabad,24456025,Independent House,3
+2083-01-01,Bangalore,28058463,Apartment,4
+2083-02-01,Chennai,33828687,Villa,3
+2083-03-01,Mumbai,46904024,Independent House,4
+2083-04-01,Delhi,23252173,Apartment,1
+2083-05-01,Hyderabad,23487108,Villa,1
+2083-06-01,Bangalore,26778757,Independent House,1
+2083-07-01,Chennai,21592791,Apartment,3
+2083-08-01,Mumbai,52563543,Villa,4
+2083-09-01,Delhi,33232500,Independent House,2
+2083-10-01,Hyderabad,17112380,Apartment,2
+2083-11-01,Bangalore,37927687,Villa,3
+2083-12-01,Chennai,28902834,Independent House,3
+2084-01-01,Mumbai,32701092,Apartment,3
+2084-02-01,Delhi,46849323,Villa,4
+2084-03-01,Hyderabad,28525093,Independent House,5
+2084-04-01,Bangalore,27377507,Apartment,4
+2084-05-01,Chennai,30055794,Villa,2
+2084-06-01,Mumbai,40860163,Independent House,3
+2084-07-01,Delhi,26767414,Apartment,3
+2084-08-01,Hyderabad,33061520,Villa,4
+2084-09-01,Bangalore,30856402,Independent House,3
+2084-10-01,Chennai,23297347,Apartment,3
+2084-11-01,Mumbai,50741682,Villa,3
+2084-12-01,Delhi,33790803,Independent House,3
+2085-01-01,Hyderabad,16943802,Apartment,1
+2085-02-01,Bangalore,40050268,Villa,4
+2085-03-01,Chennai,24223672,Independent House,1
+2085-04-01,Mumbai,29311245,Apartment,1
+2085-05-01,Delhi,40567512,Villa,3
+2085-06-01,Hyderabad,26610214,Independent House,4
+2085-07-01,Bangalore,28086856,Apartment,4
+2085-08-01,Chennai,31824323,Villa,2
+2085-09-01,Mumbai,37192298,Independent House,2
+2085-10-01,Delhi,24458457,Apartment,1
+2085-11-01,Hyderabad,34631058,Villa,5
+2085-12-01,Bangalore,33592410,Independent House,3
+2086-01-01,Chennai,24506232,Apartment,4
+2086-02-01,Mumbai,49229382,Villa,3
+2086-03-01,Delhi,32508702,Independent House,2
+2086-04-01,Hyderabad,21769970,Apartment,4
+2086-05-01,Bangalore,40156225,Villa,3
+2086-06-01,Chennai,27890797,Independent House,3
+2086-07-01,Mumbai,35227060,Apartment,3
+2086-08-01,Delhi,38719830,Villa,2
+2086-09-01,Hyderabad,20365199,Independent House,1
+2086-10-01,Bangalore,26839248,Apartment,3
+2086-11-01,Chennai,32342780,Villa,2
+2086-12-01,Mumbai,43535847,Independent House,3
+2087-01-01,Delhi,27531695,Apartment,3
+2087-02-01,Hyderabad,24337273,Villa,1
+2087-03-01,Bangalore,33315112,Independent House,3
+2087-04-01,Chennai,23964758,Apartment,3
+2087-05-01,Mumbai,50007086,Villa,3
+2087-06-01,Delhi,36279983,Independent House,3
+2087-07-01,Hyderabad,20757908,Apartment,3
+2087-08-01,Bangalore,43580078,Villa,4
+2087-09-01,Chennai,29773233,Independent House,3
+2087-10-01,Mumbai,35606466,Apartment,3
+2087-11-01,Delhi,48676141,Villa,4
+2087-12-01,Hyderabad,26650761,Independent House,4
+2088-01-01,Bangalore,29001474,Apartment,4
+2088-02-01,Chennai,36548116,Villa,4
+2088-03-01,Mumbai,39243504,Independent House,2
+2088-04-01,Delhi,29712813,Apartment,3
+2088-05-01,Hyderabad,29131408,Villa,3
+2088-06-01,Bangalore,30933063,Independent House,2
+2088-07-01,Chennai,19240604,Apartment,1
+2088-08-01,Mumbai,46019531,Villa,2
+2088-09-01,Delhi,32182736,Independent House,2
+2088-10-01,Hyderabad,18769045,Apartment,2
+2088-11-01,Bangalore,37303252,Villa,2
+2088-12-01,Chennai,26347919,Independent House,2
+2089-01-01,Mumbai,33861990,Apartment,3
+2089-02-01,Delhi,41719365,Villa,2
+2089-03-01,Hyderabad,31431040,Independent House,5
+2089-04-01,Bangalore,31857240,Apartment,5
+2089-05-01,Chennai,36979770,Villa,4
+2089-06-01,Mumbai,43110766,Independent House,3
+2089-07-01,Delhi,27682676,Apartment,2
+2089-08-01,Hyderabad,27683836,Villa,2
+2089-09-01,Bangalore,33739640,Independent House,3
+2089-10-01,Chennai,25058865,Apartment,4
+2089-11-01,Mumbai,51703084,Villa,3
+2089-12-01,Delhi,36952575,Independent House,3
+2090-01-01,Hyderabad,18891478,Apartment,2
+2090-02-01,Bangalore,41338449,Villa,3
+2090-03-01,Chennai,24353987,Independent House,1
+2090-04-01,Mumbai,31231697,Apartment,2
+2090-05-01,Delhi,52150274,Villa,5
+2090-06-01,Hyderabad,20984079,Independent House,1
+2090-07-01,Bangalore,25617624,Apartment,2
+2090-08-01,Chennai,37396210,Villa,3
+2090-09-01,Mumbai,40403578,Independent House,2
+2090-10-01,Delhi,29593892,Apartment,3
+2090-11-01,Hyderabad,34656682,Villa,4
+2090-12-01,Bangalore,32288559,Independent House,3
+2091-01-01,Chennai,28233033,Apartment,5
+2091-02-01,Mumbai,51896094,Villa,3
+2091-03-01,Delhi,36802239,Independent House,3
+2091-04-01,Hyderabad,19836974,Apartment,2
+2091-05-01,Bangalore,32762244,Villa,1
+2091-06-01,Chennai,28475064,Independent House,2
+2091-07-01,Mumbai,31786032,Apartment,2
+2091-08-01,Delhi,46738618,Villa,3
+2091-09-01,Hyderabad,27568810,Independent House,4
+2091-10-01,Bangalore,26141914,Apartment,3
+2091-11-01,Chennai,37563228,Villa,3
+2091-12-01,Mumbai,40722117,Independent House,2
+2092-01-01,Delhi,28562858,Apartment,2
+2092-02-01,Hyderabad,29751656,Villa,2
+2092-03-01,Bangalore,30511928,Independent House,2
+2092-04-01,Chennai,24237055,Apartment,3
+2092-05-01,Mumbai,44775338,Villa,1
+2092-06-01,Delhi,41948572,Independent House,4
+2092-07-01,Hyderabad,25529996,Apartment,5
+2092-08-01,Bangalore,44231275,Villa,4
+2092-09-01,Chennai,31072481,Independent House,3
+2092-10-01,Mumbai,37629708,Apartment,3
+2092-11-01,Delhi,49018784,Villa,4
+2092-12-01,Hyderabad,30660855,Independent House,5
+2093-01-01,Bangalore,27817149,Apartment,3
+2093-02-01,Chennai,30826171,Villa,1
+2093-03-01,Mumbai,48971779,Independent House,4
+2093-04-01,Delhi,26333651,Apartment,1
